@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html xml:lang>
 <head>
 	<title>Simple Form</title>
 	<style>
