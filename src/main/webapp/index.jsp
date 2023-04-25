@@ -46,7 +46,7 @@
 </head>
 <body>
 	<form>
-		<h3>This is Demo Application Form</h3>
+		<h3>This is Demo Enquiry Form</h3>
 		
 		<label for="name">Name:</label>
 		<input type="text" id="name" name="name" required>
